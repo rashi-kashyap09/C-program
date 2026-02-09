@@ -1,1 +1,1 @@
-This repository contains basic C programs for practice
+This repository contains C++ programs.
